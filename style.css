@@ -1,0 +1,48 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(85, 85, 85);
+}
+
+h1{
+    font-size: 50px;
+    color: rgb(8, 156, 236);
+}
+
+h2{
+    text-transform: capitalize;
+    color: rgba(5, 173, 215, 0.981);
+}
+
+.myinfo p{
+    font-weight: bold;
+}
+
+.bold{
+    color: rgba(255, 255, 0, 0.758);
+}
+
+.lists p {
+    font-weight: bolder;
+    color: rgba(245, 245, 245, 0.818);
+}
+
+li{
+    font-size: 18px;
+    padding: 3px;
+    color: rgb(228, 150, 15);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    letter-spacing: 2px;
+}
+
+a {
+    color: aqua;
+}
+
+.mood p{
+    color: whitesmoke;
+}
+
+
+
+
